@@ -1,0 +1,1 @@
+This is the list for Grade 7 results for schools with pass rates. You are a data consultant for the Ministry of Education (or another education-related organisation) and you have been tasked to glean insights from the data and present it. 
